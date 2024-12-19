@@ -1,0 +1,2 @@
+https://docs.llamaindex.ai/en/stable/module_guides/deploying/query_engine/streaming/ -- Streaming of llamaindex
+https://docs.llamaindex.ai/en/stable/module_guides/models/embeddings/ -- Documentation of llamaindex
